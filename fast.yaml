@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: rynf0rce/fast:22
+        image: rynf0rce/fast:34
